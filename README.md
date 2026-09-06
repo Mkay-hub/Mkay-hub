@@ -29,11 +29,11 @@
 * Designed UI/UX transit tracking interface in Figma and implemented secure payment gateway integration via PHP.
 * Streamlines local public transit ticketing.
 
-#### 💬 [VibeDeck](https://github.com/MogomotsiMore/VibeDeck)
+#### 💬 [VibeDeck](https://github.com/Mkay-hub//VibeDeck)
 *Full-Stack Web App | PHP, MySQL, Tailwind CSS*
 * Modern social hub supporting real-time interaction, structured data relationships, and dynamic feed updates.
 
-#### ✈️ [SkyFlow Management](https://github.com/MogomotsiMore/SkyFlowManagement)
+#### ✈️ [SkyFlow Management](https://github.com/Mkay-hub/SkyFlowManagement)
 *Desktop Backend Application | C#, MS SQL Server LocalDB*
 * Console-based airline operations tool handling flight schedules, booking workflows, and database transaction tracking.
 
